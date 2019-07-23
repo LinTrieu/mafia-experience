@@ -70,16 +70,15 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
-## Contributers
+## Authors
 
-* **Lin Trieu** - *Team member in Makers Academy - weeks 11 and 12* 
-* **Taj Islam** - *Team member in Makers Academy - weeks 11 and 12*
-* **Megan Goode ** - *Team member in Makers Academy - weeks 11 and 12*
-* **Lauren O'Mara** - *Team member in Makers Academy - weeks 11 and 12*
-* **Ed Reeve** - *Team member in Makers Academy - weeks 11 and 12* 
-* **Kelvin Samuel ** - *Team member in Makers Academy - weeks 11 and 12*
+* Lin Trieu
+* Taj Islam
+* Megan Goode
+* Lauren O'Mara
+* Ed Reeve
+* Kelvin Samuel
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
