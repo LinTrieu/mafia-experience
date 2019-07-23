@@ -39,10 +39,11 @@ Add additional notes about how to deploy this on a live system
 ## Technology Stack
 
 * C# 
-* ASP.NET 
+* ASP.NET
 * JavaScript
 * SignalR 
 * HTML/CSS
+* PostGreSQL
 
 ## Contributing
 
