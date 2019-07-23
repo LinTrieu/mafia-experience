@@ -1,6 +1,6 @@
-﻿# Sharipes Mafia
+﻿# Mafia Game
 
-The idea behind this project was to remove the need of a narrator while playing this game so that everyone can join in. It also will help with voting as...
+The idea behind this project was to remove the need of a narrator while playing this game so that everyone can join in. 
 
 ## Getting Started
 
@@ -70,9 +70,14 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
-## Authors
+## Contributers
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Lin Trieu** - *Team member in Makers Academy - weeks 11 and 12* 
+* **Taj Islam** - *Team member in Makers Academy - weeks 11 and 12*
+* **Megan Goode ** - *Team member in Makers Academy - weeks 11 and 12*
+* **Lauren O'Mara** - *Team member in Makers Academy - weeks 11 and 12*
+* **Ed Reeve** - *Team member in Makers Academy - weeks 11 and 12* 
+* **Kelvin Samuel ** - *Team member in Makers Academy - weeks 11 and 12*
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
