@@ -20,7 +20,7 @@ Give examples
 
 A step by step series of examples that tell you how to get a development environment running
 
-*Database set-up*
+Database set-up
 
 ```
 dotnet ef migrations add initial
