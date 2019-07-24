@@ -1,4 +1,4 @@
-﻿# Mafia Game
+﻿# The Mafia Experience: Game
 
 The idea behind this project was to remove the need of a narrator while playing this game so that everyone can join in. 
 
@@ -7,7 +7,7 @@ Hosted on Heroku currently - scan the QR code or visit: https://mafiaexperience.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Installing
 
@@ -26,10 +26,10 @@ dotnet ef database update
 
 * C# 
 * ASP.NET
-* JavaScript
+* JavaScript (incl. jQuery)
+* PostgreSQL
 * SignalR 
-* HTML/CSS
-* PostGreSQL
+* HTML& CSS (incl. Bootstrap)
 
 ## Project workflow
 
