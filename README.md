@@ -2,7 +2,7 @@
 
 The idea behind this project was to remove the need of a narrator while playing this game so that everyone can join in. 
 
-Hosted and deployed on Heroku currently - scan the QR code or visit the following link: https://mafiaexperience.herokuapp.com/ 
+Hosted on Heroku currently - scan the QR code or visit: https://mafiaexperience.herokuapp.com/ 
 
 ### Getting Started
 
@@ -20,7 +20,7 @@ Give examples
 
 A step by step series of examples that tell you how to get a development environment running
 
-Database set-up 
+*Database set-up*
 
 ```
 dotnet ef migrations add initial
