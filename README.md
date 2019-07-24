@@ -3,6 +3,7 @@
 The idea behind this project was to remove the need of a narrator while playing this game so that everyone can join in. 
 
 Hosted on Heroku currently - scan the QR code or visit: https://mafiaexperience.herokuapp.com/ 
+![qr-code](https://user-images.githubusercontent.com/36490540/61821937-5351d780-ae50-11e9-98eb-d764499808d1.png)
 
 ### Getting Started
 
