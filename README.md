@@ -2,11 +2,13 @@
 
 The idea behind this project was to remove the need of a narrator while playing this game so that everyone can join in. 
 
-## Getting Started
+Hosted and deployed on Heroku currently - scan the QR code or visit the following link: https://mafiaexperience.herokuapp.com/ 
+
+### Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+#### Prerequisites
 
 What things you need to install the software and how to install them
 
@@ -14,7 +16,7 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### Installing
+#### Installing
 
 A step by step series of examples that tell you how to get a development environment running
 
@@ -26,10 +28,6 @@ dotnet ef migrations add initial
 ```
 dotnet ef database update
 ```
-
-## Deployment
-
-Hosted and deployed on Heroku currently: https://mafiaexperience.herokuapp.com/
 
 ## Technology Stack
 
