@@ -16,25 +16,20 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+A step by step series of examples that tell you how to get a development environment running
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+Database set-up 
 
 ```
-until finished
+dotnet ef migrations add initial
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
+```
+dotnet ef database update
+```
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Hosted and deployed on Heroku currently: https://mafiaexperience.herokuapp.com/
 
 ## Technology Stack
 
@@ -84,7 +79,3 @@ Day: <div>Icons made by <a href="https://www.flaticon.com/authors/good-ware" tit
 Population: <div>Icons made by <a href="https://thenounproject.com/coquet_adrien/" title="Adrien Coquet">Adrien Coquet</a> from <a href="https://thenounproject.com" title="Noun Project">thenounproject.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
 Skull: <div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/"                 title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"                 title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
