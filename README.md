@@ -25,6 +25,7 @@ Please refer to the project [Wiki](https://github.com/LinTrieu/mafia-experience/
 ## Roadmap: further development (since demo day)
 
 - [x] Add 'Mafia Victim Reveal' result page for all users (i.e. non-victims)
+- [x] Truncate database Users table everytime a user clicks 'Start new game' button to ensure every unique game is unique  
 - [ ] Display a list of the game's winning players on final Mafia Win screen (i.e. names of who is in villager/mafia group)  
 - [ ] Implement Villager Voting functionality and countdown for the voting process (i.e. 'Vote who you think is in the Mafia?') 
 
