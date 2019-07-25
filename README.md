@@ -6,7 +6,7 @@ Hosted on Heroku currently - scan the QR code or visit: https://mafiaexperience.
 ![rsz_qr-code](https://user-images.githubusercontent.com/36490540/61822076-acba0680-ae50-11e9-8fbf-5d3374a8b154.png)
 
 ## Purpose
-The Mafia Experience game was developed as part of Makers Academy bootcamp, in weeks 11 and 12, for Group Engineering Project 2 (EP2) and presented at the April-2019 cohort demo day on 19/07/2019 - see here for the [demo presentation] (https://m.facebook.com/story.php?story_fbid=356901535225807&id=367457470014643).
+The Mafia Experience game was developed as part of Makers Academy bootcamp, in weeks 11 and 12, for Group Engineering Project 2 (EP2) and presented at the April-2019 cohort demo day on 19/07/2019 - see here to watch the [demo presentation](https://m.facebook.com/story.php?story_fbid=356901535225807&id=367457470014643).
 
 ## Technology Stack
 
