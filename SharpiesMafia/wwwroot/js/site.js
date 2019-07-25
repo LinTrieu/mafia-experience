@@ -91,10 +91,10 @@ connection.on("StartPageUserList", function (users, gameId) {     var targetDi
     });
 });
 
-connection.on("LoadResult", function (name, role, rolesCount)
+connection.on("LoadVoteResult", function (name, role, rolesCount)
 {
     var targetDiv = $('#mafiaGame');
-    targetDiv.load("/Home/LoadResultScreen", function ()
+    targetDiv.load("/Home/LoadVoteResultScreen", function ()
     {
         if (role === "mafia") {
             document.getElementById("resultDisplay").classList.add("text-success");
@@ -295,3 +295,14 @@ function speak(message) {
 
     spk.speak(to_speak);
 }
+
+connection.on("LoadVictimResult", function (name)
+{
+    setTimeout(function () {    
+    var targetDiv = $('#mafiaGame');
+    targetDiv.load("/Home/LoadVictimResultScreen", function ()
+    {
+        document.getElementById("deadVictim").innerHTML = capitalize(name);
+    });
+        }, 17000);
+});
