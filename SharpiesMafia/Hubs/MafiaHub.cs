@@ -21,6 +21,7 @@ namespace SharpiesMafia.Hubs
 
         public async Task StartGame(string userName)
         {
+            _context.Users.RemoveRange(_context.Users);
             if (UserExists(userName))
             {
                 Console.WriteLine(userName);
