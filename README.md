@@ -13,14 +13,10 @@ The Mafia Experience game was developed as part of Makers Academy bootcamp, in w
 * C# 
 * ASP.NET
 * JavaScript (incl. jQuery)
-* Entity Framework
-* PostgreSQL
+* Entity Framework (ORM)
+* PostgreSQL database
 * SignalR 
 * HTML& CSS (incl. Bootstrap)
-
-## Project workflow
-
-Please refer to the project [Wiki](https://github.com/LinTrieu/mafia-experience/wiki/Workflow-and-ways-of-working) for details on our production process, ways of working and code of conduct.
 
 ## Roadmap: further development (since demo day)
 
@@ -47,6 +43,9 @@ dotnet ef migrations add initial
 dotnet ef database update
 ```
 
+## Project workflow
+
+Please refer to the project [Wiki](https://github.com/LinTrieu/mafia-experience/wiki/Workflow-and-ways-of-working) for details on our production process, ways of working and code of conduct.
 
 ## Contributers
 
