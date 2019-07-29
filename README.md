@@ -26,8 +26,9 @@ Please refer to the project [Wiki](https://github.com/LinTrieu/mafia-experience/
 
 - [x] Add 'Mafia Victim Reveal' result page for all users (i.e. non-victims)
 - [x] Truncate Users table in Database everytime a user clicks 'Start new game' button to ensure every unique game is unique  
-- [ ] Display a list of the game's winning players on final Mafia Win screen (i.e. names of who is in villager/mafia group)  
-- [ ] Implement Villager Voting functionality and countdown for the voting process (i.e. 'Vote who you think is in the Mafia?') 
+- [x] Display a list of the game's winning players on the final Mafia results screen (i.e. a reveal of the mafia and villager names once the game is complete)  
+- [ ] Implement Villager Voting functionality (i.e. 'Vote who you think is in the Mafia?') 
+- [ ] Implement a countdown timer for the villager voting process (i.e. after a set amount of time the voting ends)
 
 ## Getting Started
 
