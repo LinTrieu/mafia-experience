@@ -45,7 +45,7 @@ dotnet ef database update
 
 ## Project workflow
 
-Please refer to the project [Wiki](https://github.com/LinTrieu/mafia-experience/wiki/Workflow-and-ways-of-working) for details on our production process, ways of working and code of conduct.
+Please refer to the project [Wiki](https://github.com/LinTrieu/mafia-experience/wiki/Project-Workflow) for details on our production process, ways of working and code of conduct.
 
 ## Contributers
 
